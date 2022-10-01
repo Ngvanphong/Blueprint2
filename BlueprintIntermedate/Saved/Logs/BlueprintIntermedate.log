@@ -2030,3 +2030,28 @@ Script Stack (0 frames):
 [2022.10.01-08.56.22:488][235]LogSavePackage: Moving '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Saved/BP_ThirdPersonCharacter4EEBF7E9449713139BB09EACFD853A22.tmp' to '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
 [2022.10.01-08.56.22:505][235]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2022.10.01-08.56.22:505][235]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.01-09.10.10:857][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UF/UR92SR60QFUJMQZFAHXLZZ
+[2022.10.01-09.10.10:857][951]LogSavePackage: Moving '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Saved/UR92SR60QFUJMQZFAHXLZZ435DD4E646A2CD9409717380A9AB599A.tmp' to '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UF/UR92SR60QFUJMQZFAHXLZZ.uasset'
+[2022.10.01-09.10.10:881][951]AssetCheck: New page: Asset Save: ItemHealthPotion_C_UAID_70B5E8C5F846B03B01_1518317440
+[2022.10.01-09.10.10:881][951]LogContentValidation: Display: Validating ItemHealthPotion_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ItemHealthPotion_C_UAID_70B5E8C5F846B03B01_1518317440
+[2022.10.01-09.10.12:497][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.10.01-09.10.13:791][ 44]LogSlate: Window 'Save Content' being destroyed
+[2022.10.01-09.10.13:860][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_ItemBook" FILE="../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Content/Main/BP_ItemBook.uasset" SILENT=true
+[2022.10.01-09.10.13:864][ 44]LogSavePackage: Moving output files for package: /Game/Main/BP_ItemBook
+[2022.10.01-09.10.13:865][ 44]LogSavePackage: Moving '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Saved/BP_ItemBookC1DB2CEF4AA763740E6A49B5571167B5.tmp' to '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Content/Main/BP_ItemBook.uasset'
+[2022.10.01-09.10.13:866][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/BP_ItemMaster" FILE="../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Content/Main/BP_ItemMaster.uasset" SILENT=true
+[2022.10.01-09.10.13:874][ 44]LogSavePackage: Moving output files for package: /Game/Main/BP_ItemMaster
+[2022.10.01-09.10.13:875][ 44]LogSavePackage: Moving '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Saved/BP_ItemMasterCC8B9A5A467C1EA56DE5E1A4689EF424.tmp' to '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Content/Main/BP_ItemMaster.uasset'
+[2022.10.01-09.10.13:876][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/ItemHatchet" FILE="../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Content/Main/ItemHatchet.uasset" SILENT=true
+[2022.10.01-09.10.13:879][ 44]LogSavePackage: Moving output files for package: /Game/Main/ItemHatchet
+[2022.10.01-09.10.13:879][ 44]LogSavePackage: Moving '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Saved/ItemHatchet439A314B4F4EF07840FE33904AB72EDA.tmp' to '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Content/Main/ItemHatchet.uasset'
+[2022.10.01-09.10.13:883][ 44]LogSavePackage: Moving output files for package: /Game/Main/ItemHealthPotion
+[2022.10.01-09.10.13:884][ 44]LogSavePackage: Moving '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Saved/ItemHealthPotion886A7FC74592D26EC56193917271AEA7.tmp' to '../../../../../../Users/ngvan/Documents/LeanUnreal/Blueprint 2/Blueprint2/BlueprintIntermedate/Content/Main/ItemHealthPotion.uasset'
+[2022.10.01-09.10.13:899][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.01-09.10.13:899][ 44]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_ItemMaster.BP_ItemMaster
+[2022.10.01-09.10.13:899][ 44]LogContentValidation: Display: Validating Blueprint /Game/Main/ItemHatchet.ItemHatchet
+[2022.10.01-09.10.13:900][ 44]LogContentValidation: Display: Validating Blueprint /Game/Main/ItemHealthPotion.ItemHealthPotion
+[2022.10.01-09.10.13:900][ 44]LogContentValidation: Display: Validating Blueprint /Game/Main/BP_ItemBook.BP_ItemBook
+[2022.10.01-09.10.19:341][160]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.01-09.10.19:341][160]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-09.10.19:341][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
